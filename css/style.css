@@ -1492,13 +1492,12 @@ body {
 }
 @media (max-width: 48em) {
   .actions__logo::after {
-    width: 2.875rem;
     height: 3.3125rem;
   }
 }
 @media (max-width: 23.5em) {
   .actions__logo::after {
-    top: -9%;
+    top: -45%;
   }
 }
 @media (max-width: 55.5625em) {
